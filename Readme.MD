@@ -8,4 +8,6 @@ Amazon, Netflix, Google) as technical staff, it is highly likely you will need t
 
 - [Q1 Two Sum](./src/Easy/Q1TwoSum.java)
 - [Q26 Remove Duplicates from Sorted Array](./src/Easy/Q26RemoveDuplicatesFromSortedArray.java)
+- [Q27 Remove Element](./src/Easy/Q27RemoveElement.java)
+- [Q35 Search Insert Position](./src/Easy/Q35SearchInsertPosition.java)
 
